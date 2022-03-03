@@ -8,3 +8,38 @@
 .site-layout .site-layout-background {
   background: #fff;
 }
+.ta-navBar {
+  background-color: rgba(33, 41, 64, 1);
+}
+.ant-layout-header {
+  padding: 0;
+}
+.ant-layout-footer {
+  background-color: rgba(33, 41, 64, 1);
+}
+
+.site-layout .site-layout-background {
+  background: #5c6273;
+}
+
+element.style {
+}
+.ant-layout-header .ant-menu {
+  line-height: inherit;
+}
+.ta-navBar {
+  background-color: rgba(33, 41, 64, 1);
+}
+.ant-layout,
+.ant-layout * {
+  box-sizing: border-box;
+}
+.ant-menu-horizontal {
+  line-height: 0; 
+  border: 0;
+  border-bottom: 0;
+  box-shadow: none;
+}
+.ant-menu-overflow {
+  display: block;
+}
